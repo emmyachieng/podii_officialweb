@@ -1,0 +1,29 @@
+#container{
+        background: #F8F9F5;
+        margin: 0;
+        padding: 0;
+        height: 100vh;
+}
+#container{
+    background-color:#C3D9CF ;
+}
+#column1{   
+    float: left;
+    width: 50%;
+    height: 300px;   
+}
+
+h2{
+    padding-left: 300px;
+    font-family: Jura;
+    font-size: 54px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 74px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #307457;
+}
+img{
+    padding-left: 300px;
+}
