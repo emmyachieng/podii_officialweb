@@ -3,47 +3,49 @@
     margin: 0;
     padding: 0;
 }
-.nav{
+.home{
+    background: #F4FBF8;
+}
+.home .nav{
     display: flex;
     align-items: center;
     padding: 1rem;
     margin: 3rem;
-    background: #F4FBF8;
+    
 
 }
-.nav .icon{
+.home .nav .icon{
     flex: 1;
     display: flex;
     justify-content: center;
 }
 
 
-.nav .nav-link{
+.home .nav .nav-link{
     color: #0F241B;
     flex: 1;
 
 
 }
-.nav .nav-link ul{
+.home .nav .nav-link ul{
     display: flex;
     
 }
 
 
-.nav .nav-link li {
+.home .nav .nav-link li {
     list-style: none;
     padding: 0 2rem;
  
 }
 
-.nav .nav-link li a{
+.home .nav .nav-link li a{
     text-decoration: none;
     color: #0F241B;
 }
 .home .podii{
     display: flex;
     align-items: center;
-    background: #F4FBF8;
 
 }
 
